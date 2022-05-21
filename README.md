@@ -1,1 +1,1 @@
-# cross-correlation
+# Cross Correlation Algorithm for hadoop-mapreduce task.
